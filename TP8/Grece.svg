@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="270.0" height="180.0">
+    <rect x="0.0" y="0.0" width="270.0" height="180.0"  fill="white" />
+    <rect x="0.0" y="0.0" width="40.0" height="40.0" rx="10.000000" ry="10.000000"  fill="blue" />
+    <rect x="60.0" y="0.0" width="40.0" height="40.0"  fill="blue" />
+    <rect x="0.0" y="60.0" width="40.0" height="40.0"  fill="blue" />
+    <rect x="60.0" y="60.0" width="40.0" height="40.0"  fill="blue" />
+    <rect x="100.0" y="0.0" width="180.0" height="20.0"  fill="blue" />
+    <rect x="100.0" y="40.0" width="180.0" height="20.0"  fill="blue" />
+    <rect x="100.0" y="80.0" width="180.0" height="20.0"  fill="blue" />
+    <rect x="0.0" y="120.0" width="270.0" height="20.0"  fill="blue" />
+    <rect x="0.0" y="160.0" width="270.0" height="20.0"  fill="blue" />
+</svg>
