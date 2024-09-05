@@ -1,0 +1,5 @@
+PARTIE 2
+
+Exercice 1
+2) Oui, le builder est clairement plus souple, car ils nous permettent de ne pas forcément remplir des attributs et donc remplir les attributs à notre guise. Cependant, c'est plus long à créer.
+

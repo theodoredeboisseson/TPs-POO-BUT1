@@ -1,0 +1,34 @@
+fr.umontpellier.iut.partie1.DuplicationTest
+ ✓  getSalaireBrut_de_Representant_appelle_getSalaireBrut_de_Technicien
+ ✓  getSalaireBrut_de_Technicien_appelle_getSalaireBrut_d_Employe
+fr.umontpellier.iut.partie1.EmployeTest
+ ✓  test_pas_trop_d_attributs_protected
+ ✓  test_getSalaireNet_est_publique
+ ✓  test_getSalaireBrut_est_publique
+ ✓  test_calcul_salaire_brut
+ ✓  test_duplication_code_salaire_brut_net_1
+ ✓  test_duplication_code_salaire_brut_net_2
+ ✓  test_salaire_net_zero_point_huit_du_brut
+ ✓  test_pas_d_attributs_publiques_dans_Employe
+fr.umontpellier.iut.partie1.FabricantTest
+ ✓  test_nombre_total_attributs_Fabricant_egal_a_ceux_de_Employe_plus_deux
+ ✓  test_salaire_brut_net_fabricant_0_extra
+ ✓  test_salaire_brut_net_fabricant_extra_unites
+fr.umontpellier.iut.partie1.RepresentantTest
+ ✓  test_salaire_brut_net_representant_avec_technicien_full
+ ✓  test_salaire_brut_net_representant_quand_l_extra_du_representat_est_nul
+ ✓  test_salaire_brut_net_representant_en_general
+ ✓  test_representant_est_un_Commercial_et_un_Employe
+fr.umontpellier.iut.partie1.TechnicienTest
+ ✓  test_valeurs_salaire_brut_net_technicien
+ ✓  test_Technicien_est_un_Employe
+ ✓  test_nombre_total_attributs_Technicien_egal_a_ceux_de_Employe
+fr.umontpellier.iut.partie1.VendeurTest
+ ✓  test_salaire_brut_vendeur
+ ✓  test_salaire_brut_net_commercial_vendeur_avec_chiffre_affaires_et_sans_commission
+ ✓  test_salaire_brut_net_commercial_vendeur_avec_chiffre_affaires_et_commission
+ ✓  test_salaire_brut_de_Commercial_n_a_rien_a_avoir_avec_le_salaire_brut_de_Employe
+ ✓  test_salaire_net_vendeur
+
+25 / 25 tests réussis
+Note: 10.00 / 10

@@ -1,0 +1,26 @@
+2) Le pas Enchère sera le même pour tous les produits de IBaille donc on le définit directement hors des classes en static,
+   on ne le met pas en final afin de pouvoir le modifier.
+   On met également les getters et setters de pasEnchere en static puisqu'il ne concerne pas un objet précis.
+
+10) o1=(10,20) première offre donc gagnante par défaut
+    o2=(11,25) ne respecte pas le pas d'enchère de 2 donc refusée
+    o3=(12,15) le max n'est pas supérieur à celui de o1 mais o1 -> (15,20)
+    o4=(16,30) o4 à un plus grand max et son prix courant passe à max o1 : o4 -> (20,30)
+    o5=(25,30) le max n'est pas plus grand que celui de o4 mais o4 -> (30,30)
+    o6=(27,35) o6 passe gagnant, mais passe à o6 -> (30,35)
+    o7=(32,74) meme enchérisseur, mais le max est plus grand donc o7 passe gagnante
+
+11) ajout de méthodes getCompte pour comparer les comptes et également setters pour prixMax
+
+12) Ajout méthode "ajouterProduit" dans la classe Compte pour ajouter le produit dont l'enchère a été remportée.
+
+mesEncheres sont toutes les enchères effectuées, celles en train de gagner ou celles remportées ?
+
+produit.ajouterOffre(nouvelleOffre); dans creerOffre ou dans le main ?
+
+13) Ajout de getEtatGagnant dans offre pour savoir dans le toString de compte si l'offre est gagnante ou non.
+
+14) Ajout de getPseudo pour juste obtenir le nom du compte ayant l'enchère
+
+Nettoyage du code entre la q14 et 15 pour de la clarté
+

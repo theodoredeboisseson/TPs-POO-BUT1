@@ -1,0 +1,14 @@
+PARTIE 1
+Ex1
+3) Un seul changement dans le calcul du salaire BRUT.
+
+Ex2
+6) 2 changements, un dans Employé et un dans Commercial puisqu'ils n'utilisent pas le meme calcul de salaire BRUT
+
+DEMANDER POUR CALCUL COMMERCIAL
+
+Ex3
+
+4) J'ai copié le code de la fonction dans Technicien dans Représentant, car je pense que c'est la technique la plus courte, mais elle répète du code. NON
+
+Finalement, j'ai compris que ce qui importe, ce n'est pas un code minimum, mais un impact minimum. C'est plus long que mon ancienne solution, mais il suffit d'un seul changement pour tout.
